@@ -1,0 +1,3 @@
+df1 = pd.DataFrame({'Key': ['b', 'b', 'a', 'c', 'a', 'a', 'b'], 'data1': range(7)})
+df2 = pd.DataFrame({'Key': ['a', 'b', 'd'], 'data2': range(3)})
+
